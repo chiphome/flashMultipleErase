@@ -1,0 +1,2 @@
+# flashMultipleErase
+如何用单片机FLASH模拟EEPROM，并且通过算法优化实现高达100万次以上的存储次数！
